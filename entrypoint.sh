@@ -3,6 +3,7 @@
 
 # config xray
 UUID="25ddbcc3-e922-4f5c-8a9e-80543ee577fc"
+PORT=80
 cat << EOF > /etc/config.json
 {
   "inbounds":[
